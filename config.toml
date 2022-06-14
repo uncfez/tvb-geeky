@@ -18,7 +18,7 @@ link = "plugins/search/search.js"
 link = "plugins/webfont-loader/webfont-loader-2.js"
 [params.variables]
 black = "#000"
-body_color = "#000"
+body_color = "#FFF"
 border_color = "#E1E1E1"
 color_primary = "#FFBE17"
 font_icon = "Font Awesome 5 Free"
