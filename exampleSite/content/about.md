@@ -24,7 +24,7 @@ experience:
   enable: true
   title: "Stadgar och viktiga dokument"
   experience_list:
-  - "Turf Västerbottens stadgar, reviderade 2020" 
+  - [Turf Västerbottens stadgar, reviderade 2020](https://tvb-geeky.netlify.app/) 
   - "Verksamhetsberättelse 2019"
   - "Statuter Vandringspris R vinnare (öppnas i nytt fönster), januari 2020"
 
