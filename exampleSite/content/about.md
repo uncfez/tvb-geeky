@@ -17,8 +17,7 @@ education:
   - name: "Easteast University"
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
   - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    url: 'https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf'
+    content: "1985 • 1991 • [gravida nibh velvelit auctor alimo quet menean solli](https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf)
 
 # experience
 experience:
@@ -31,7 +30,7 @@ experience:
 
 ---
 
-Föreningen Turf Västerbotten är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten). Turf Västerbotten grundades den 4 maj 2019.
+[Föreningen Turf Västerbotten](https://tvb-geeky.netlify.app/) är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten). Turf Västerbotten grundades den 4 maj 2019.
 
 Föreningen ordnar bland annat de stående eventen Västerbotten Winter Classic och Västerbotten Midnight Classic, samt regelbundna turf-träffar.
 
