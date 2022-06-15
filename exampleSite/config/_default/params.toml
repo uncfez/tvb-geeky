@@ -19,15 +19,15 @@ navbar_fixed = false
 recent_post_title = "Recent Post"
 search = true
 [advertisement]
-image = "images/promotion.png"
-link = "https://gethugothemes.com/"
+# image = "images/promotion.png"
+# link = "https://gethugothemes.com/"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
 button_label = "Om föreningen"
 button_link = "about/"
 content = ""
 enable = true
-image = "images/banner.jpg"
+image = "images/logo.png"
 title_large = "Välkommen till Turf Västerbotten **!**"
 title_small = ""
 [cookies]
