@@ -2,51 +2,71 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Start"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
+name = "Om föreningen"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Contact"
+name = "Vad är Turf?"
 url = "contact/"
 weight = 3
 
 [[main]]
-name = "Pages"
+name = "Kontakt"
+url = "contact/"
+weight = 4
+
+[[main]]
+name = "Västerbottens Turf-klassiker"
+url = "klassiker/"
+weight = 5
+
+[[main]]
+name = "Vandringspokalen"
+url = "vandringspokal/"
+weight = 6
+
+[[main]]
+name = "Event"
 url = "#"
-weight = 3
+weight = 7
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/"
+  parent = "Event"
+  name = "Winter Classic"
+  url = "winter-classic/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
-  name = "Categories"
-  url = "categories/"
+  parent = "Event"
+  name = "Midnight Classic"
+  url = "midnight-classic/"
   weight = 2
+
+[[main]]
+name = "Profilkläder"
+url = "profilklader/"
+weight = 6
 
 # footer menu
 [[footer]]
-name = "Home"
+name = "Start"
 url = "/"
 weight = 1
 
 [[footer]]
-name = "About"
+name = "Om föreningen"
 url = "about/"
 weight = 2
 
 [[footer]]
-name = "Contact"
+name = "Kontakt"
 url = "contact/"
 weight = 3
 
