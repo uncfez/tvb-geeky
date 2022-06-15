@@ -28,7 +28,7 @@ button_link = "about/"
 content = ""
 enable = true
 image = "images/banner.jpg"
-title_large = "Välkommen till Turf Västerbotten**!**"
+title_large = "Välkommen till Turf Västerbotten **!**"
 title_small = ""
 [cookies]
 button = "I Accept"
