@@ -20,7 +20,7 @@ hasChildren = true
 
   [[main]]
   parent = "Om"
-  name = "Vad är Turf?"
+  name = "Vaddå Turf?"
   url = "about/"
   weight = 2
 
@@ -38,21 +38,8 @@ hasChildren = true
   [[main]]
   parent = "Mer"
   name = "Event"
-  url = "#"
+  url = "event/"
   weight = 1
-  hasChildren = true
-  
-  [[main]]
-  parent = "Event"
-  name = "Winter Classic"
-  url = "winter-classic/"
-  weight = 1
-
-  [[main]]
-  parent = "Event"
-  name = "Midnight Classic"
-  url = "midnight-classic/"
-  weight = 2
   
   [[main]]
   parent = "Mer"
