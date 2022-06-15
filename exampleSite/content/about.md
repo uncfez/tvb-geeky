@@ -7,7 +7,7 @@ draft: false
 
 # education
 education:
-  enable: falsee
+  enable: false
   title: "Nån rolig lista"
   education_list:
   - name: "Southeast University"
