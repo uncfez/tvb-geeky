@@ -18,6 +18,7 @@ education:
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
   - name: "Southeast University"
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
+    url: (https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf)
 
 # experience
 experience:
@@ -25,7 +26,6 @@ experience:
   title: "Stadgar och viktiga dokument"
   experience_list:
   - "Turf Västerbottens stadgar, reviderade 2020" 
-    url: 'https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf'
   - "Verksamhetsberättelse 2019"
   - "Statuter Vandringspris R vinnare (öppnas i nytt fönster), januari 2020"
 
