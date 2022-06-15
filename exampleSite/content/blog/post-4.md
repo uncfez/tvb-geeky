@@ -3,7 +3,7 @@ title: "Bonanza i Umeå 2023"
 description: "meta description"
 image: "images/post/post-4.png"
 date: 2022-06-15T18:19:25+06:00
-categories: ["github", "youtube"]
+categories: ["bonanza", "event"]
 type: "featured" # available types: [featured/regular]
 draft: false
 ---
