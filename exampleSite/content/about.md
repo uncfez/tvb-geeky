@@ -18,7 +18,7 @@ education:
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
   - name: "Southeast University"
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-    url: (https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf)
+    url: 'https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf'
 
 # experience
 experience:
