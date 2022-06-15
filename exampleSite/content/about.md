@@ -24,7 +24,8 @@ experience:
   enable: true
   title: "Stadgar och viktiga dokument"
   experience_list:
-  - [Turf Västerbottens stadgar, reviderade 2020] (https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf)
+  - "Turf Västerbottens stadgar, reviderade 2020" 
+    url: 'https://turfvasterbotten.files.wordpress.com/2020/03/2020-turf-vc3a4sterbottens-stadgar.pdf'
   - "Verksamhetsberättelse 2019"
   - "Statuter Vandringspris R vinnare (öppnas i nytt fönster), januari 2020"
 
