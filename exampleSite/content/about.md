@@ -10,7 +10,7 @@ education:
   enable: true
   title: "Nån rolig lista"
   education_list:
-  - name: "Southeast University"
+  - name: [Southeast University](https://tvb-geeky.netlify.app/)
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
   - name: "Northeast University"
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
@@ -24,7 +24,7 @@ experience:
   enable: true
   title: "Stadgar och viktiga dokument"
   experience_list:
-  - [Turf Västerbottens stadgar, reviderade 2020](https://tvb-geeky.netlify.app/) 
+  - Turf Västerbottens stadgar, reviderade 2020 
   - "Verksamhetsberättelse 2019"
   - "Statuter Vandringspris R vinnare (öppnas i nytt fönster), januari 2020"
 
