@@ -7,10 +7,10 @@ draft: false
 
 # education
 education:
-  enable: true
+  enable: falsee
   title: "Nån rolig lista"
   education_list:
-  - name: [Southeast University](https://tvb-geeky.netlify.app/)
+  - name: "Southeast University"
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
   - name: "Northeast University"
     content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
@@ -21,7 +21,7 @@ education:
 
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Stadgar och viktiga dokument"
   experience_list:
   - Turf Västerbottens stadgar, reviderade 2020 
@@ -30,7 +30,7 @@ experience:
 
 ---
 
-[Föreningen Turf Västerbotten](https://tvb-geeky.netlify.app/) är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten). Turf Västerbotten grundades den 4 maj 2019.
+Föreningen Turf Västerbotten är en ideell förening som är religiöst och politiskt obunden. Föreningens syfte är att organisera och sammanhålla medlemmar som utövar sporten Turf inom Västerbottens län (Region Västerbotten). Turf Västerbotten grundades den 4 maj 2019.
 
 Föreningen ordnar bland annat de stående eventen Västerbotten Winter Classic och Västerbotten Midnight Classic, samt regelbundna turf-träffar.
 
